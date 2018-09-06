@@ -79,11 +79,11 @@ I'll be happy to write this down in English when I have time :-P
 
 ![03](https://raw.githubusercontent.com/MrWrh/Upgrade_Solution_4_Password_Managers/master/imgs/03.png)
 
-则可以彻底杜绝上文提到的隐患2——即使攻击者得知了你的 LastPass 登录邮箱，他也无从攻击你的登录邮箱，去达到重置密码的目的。
+则可以彻底杜绝上文提到的隐患二——即使攻击者得知了你的 LastPass 登录邮箱，他也无从攻击你的登录邮箱，去达到重置密码的目的。
 
 
 
-对于隐患一，则有一个很简便的方法：
+对于隐患一，则有一个简便的方法：
 
 对于弱密码（长度少于30位），我们可以利用早已成熟的编码算法或加密算法进行处理，得到足够长度的强密码。
 
